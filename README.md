@@ -1,1 +1,1 @@
-# mini-projects
+# movie_recommender_system
